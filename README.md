@@ -1,4 +1,4 @@
-# static_resources_app
+# _app
 
 A new Flutter project.
 
