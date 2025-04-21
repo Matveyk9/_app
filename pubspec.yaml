@@ -1,4 +1,4 @@
-name: static_resources_app
+name: _app
 description: A new Flutter project
 
 publish_to: 'none' # Remove this line if you are publishing to pub.dev
