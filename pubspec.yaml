@@ -1,0 +1,26 @@
+name: static_resources_app
+description: A new Flutter project
+
+publish_to: 'none' # Remove this line if you are publishing to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '^3.7.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Добавьте все свои другие зависимости здесь
+
+flutter:
+  assets:
+    - assets/images/image1.png
+    - assets/images/image2.png
+    - assets/images/image3.png
+
+  fonts:
+    - family: CustomFont
+      fonts:
+        - asset: assets/fonts/custom_font.ttf
